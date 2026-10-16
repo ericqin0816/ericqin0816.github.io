@@ -32,3 +32,8 @@ GitHub Pages serves the root of the `main` branch. Pushing changes to `main` aut
 - `Eric-Qin-Resume.pdf`: résumé.
 
 The EQ logo was supplied by Eric. The SVG people are decorative illustrations. The Snorlax artwork is a third-party asset credited separately, and is not offered under a new license by this repository.
+
+
+## October 2026 content refresh
+
+The Projects page groups Research, Builds, and For fun. `/crux-rnn/` and `/robustdrive/` contain research stories, measured results, original repository figures, and methods/report links. `/climbiq/` explains the climbing project in the same conversational style. About contains the education, work, service, athletics, skills, and language details from Eric’s supplied CV. `editorial.css` handles the shared reading layout.

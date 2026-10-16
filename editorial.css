@@ -1,0 +1,10 @@
+/* Longer stories, with the same quiet layout as the rest of the site. */
+.quiet-page-intro>p+p{margin-top:14px}.quiet-personal-section p strong{font-weight:550;color:var(--text)}
+.project-index{display:flex;flex-wrap:wrap;gap:25px;margin:-12px 0 42px;font-size:12px;color:var(--muted)}.project-index a:hover{color:var(--text)}
+.project-category-heading h2{scroll-margin-top:28px}.quiet-entry-links{flex-wrap:wrap;gap:15px 22px}.quiet-work-entry{scroll-margin-top:25px}
+.case-hero-actions{font-size:12px;gap:24px;flex-wrap:wrap;color:var(--accent)}.case-stat-grid{border:0;border-radius:0;background:none;border-bottom:1px solid var(--border)}.case-stat-grid>div{padding:20px 12px}.case-stat-grid>div:first-child{padding-left:0}.case-stat-grid>div+div{border-left:0}
+.case-body .test-table caption{text-align:left;font-size:11px;line-height:1.7;color:var(--muted);padding:0 0 12px;caption-side:top;background:var(--bg)}
+.test-table-wrap{border:0;border-radius:0}.test-table th[scope=row]{font:inherit;letter-spacing:0;background:none;color:var(--text);border-top:1px solid var(--border);white-space:normal;min-width:95px}.test-table th[scope=col]{font-family:var(--sans);letter-spacing:0}.test-table td{font-variant-numeric:tabular-nums}.test-table th,.test-table td{padding:12px 10px}
+.research-figure{margin:24px 0}.research-figure img{display:block;width:100%;height:auto;background:#fff}.research-figure figcaption{font-size:11px;line-height:1.8;color:var(--muted);margin-top:12px}.case-body #sources p{display:flex;flex-wrap:wrap;gap:9px 12px}.case-body #sources a{color:var(--accent)}
+.case-toc{position:sticky;top:28px}.case-body section{scroll-margin-top:24px}
+@media(max-width:680px){.case-hero h1{font-size:clamp(39px,10.5vw,50px);overflow-wrap:anywhere}.case-stat-grid>div:nth-child(3),.case-stat-grid>div:nth-child(4){border-top:0}.case-stat-grid>div:nth-child(3){padding-left:0}.case-stat-grid strong{font-size:28px}.case-body .test-table{font-size:11px}.test-table th,.test-table td{padding:10px 7px}.project-index{gap:23px;margin-bottom:32px}.case-bottom{align-items:flex-start;gap:18px}.research-figure{margin-inline:0}}
